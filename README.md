@@ -1,6 +1,7 @@
 # BYOA_WSF_Urban_Delineation
 
 This repository contains BOYA structure for WSF Urban Delineation algorithm.
+
 notebook.ipynb implements JRC algorithm (GHSL settlement model) for WSF2019population dataset (DLR) with resolution 10m.
 
 ### Parameters
